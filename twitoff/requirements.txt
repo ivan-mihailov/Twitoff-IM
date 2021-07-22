@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+tweepy
+setuptools
+wheel
+spacy
+python-dotenv
+sklearn
+numpy
+gunicorn
+psycopg2-binary
